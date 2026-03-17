@@ -10,7 +10,7 @@
     "migration:push": "drizzle-kit push",
     "migration:up": "drizzle-kit up"
   },
-  "author": "kobzar maksym",
+  "author": "pavlenko anastasia",
   "license": "ISC",
   "dependencies": {
     "drizzle-kit": "^0.30.5",
